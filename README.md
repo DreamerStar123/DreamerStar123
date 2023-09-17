@@ -5,25 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreamerstar123" alt="dreamerstar123" /></a> </p>
 
-- 🔭 I’m currently working on [xx](xx)
-
 - 🌱 I’m currently learning **Deep Learning**
-
-- 👯 I’m looking to collaborate on [xx](xx)
-
-- 🤝 I’m looking for help with [AI](xx)
-
-- 👨‍💻 All of my projects are available at [xx](xx)
-
-- 📝 I regularly write articles on [xx](xx)
-
-- 💬 Ask me about **xx**
 
 - 📫 How to reach me **songlasse@gmail.com**
 
-- 📄 Know about my experiences [xx](xx)
-
-- ⚡ Fun fact **xx**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
