@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📫 How to reach me **songlasse@gmail.com**
+- 📫 How to reach me **hpeak712@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
